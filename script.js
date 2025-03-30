@@ -1,1 +1,2 @@
-console.log('Sufflick website is live!');
+
+console.log('Welcome to Sufflick!');
